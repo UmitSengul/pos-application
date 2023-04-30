@@ -1,1 +1,1 @@
-MERN project work at https://umitmernposapplication-api.onrender.com
+MERN project work at https://umitmernposapp.onrender.com
